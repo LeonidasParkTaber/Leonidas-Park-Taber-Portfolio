@@ -9,7 +9,7 @@ I have an interest in rapid prototyping, and understand that meaningful progress
 
 I also recognize that clear communication is essential to successful engineering.
 
-| <img src="Profile_Picutre_0.png" width="200"> |
+| <img src="Profile_Picture/Profile_Picture_0.png" width="200"> |
 |:--|
 | I am an undeclared engineering student at the University of Washington, Seattle, with a strong interest in mechanical engineering. 
 
