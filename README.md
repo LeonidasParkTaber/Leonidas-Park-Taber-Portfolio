@@ -10,7 +10,7 @@ I have an interest in prototyping and understand that meaningful progress can on
 
 ### The following is a list of links to projects I have worked on.
 
-[Remote Controlled Planes](https://github.com/LeonidasParkTaber/Parabolic-Microphone-Speaker)
+[Remote Controlled Planes](https://github.com/LeonidasParkTaber/RC-Planes)
 
 [Parabolic Speaker / Microphone](https://github.com/LeonidasParkTaber/Parabolic-Microphone-Speaker)
 
